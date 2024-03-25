@@ -1,9 +1,7 @@
-# Generative-AI
-Google Skill Boost Course
 # Intoduction to Genartive AI : Course by Google 
 
 - Learning Curve: 
-  - Define Learning Curve
+  - Define Generative AI
   - Explain How Generative AI works 
   - Describe Generative AI model types
   - Describe Generative AI Applications
@@ -25,7 +23,6 @@ Google Skill Boost Course
 	- Deep learning uses "Artificial Neural Nerworks" allowing them to process more complex patterns than traditional machine learning.
 	
 ## Generative AI :
-
 	- Generative AI is a subset of Deep Learning.
 	- It uses "Artificial Neural Network can process both labelled and unlabelled data, using supervised, unsupervised and semi-supervised methods.
 
@@ -71,6 +68,28 @@ Google Skill Boost Course
 		- Image
 
 		- Audio
+
+
+# What is Generative Al?
+
+	- GenAl is a type of Artificial Intelligence that creates new content based on what it has learned from existing content.
+
+	- The process of learning from existing content is called training and results in the creation of a statistical model.
+
+	- When given a prompt, GenAl uses this statistical model to predict what an expected response might be-and this generates new content.
+
+# Prompt
+	- prompt is a peace of text that is give to LLM(Large Language Model), it can be use to control out of model. 
+	
+# Prompt Design
+	- it is a process to creating a prompt that genrates a desired output from LLM.
+	- The quality of input determisnes the quality of output.
+
+# Model Types 
+	
+	
+
+	
 
 
 # Diagramatical Representation
