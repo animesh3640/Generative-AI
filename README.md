@@ -52,7 +52,7 @@ Google Skill Boost Course
 
 		# Generative model generates new data instances.
 
-##GenAI X Non-GenAI
+## GenAI X Non-GenAI
 
 	- Not GenAl when y is a:(output of model is)
 
@@ -72,4 +72,34 @@ Google Skill Boost Course
 
 		- Audio
 
+
+# Diagramatical Representation
+         +---------------------------------------------+
+         |                   Supervised                |
+         |                                             |
+         |  +--------------+  labeled data   +--------+|
+         |  |    Model     | -------------->| Output ||
+         |  +--------------+                 +--------+|
+         |                                             |
+         +---------------------------------------------+
+                ^
+                |
+                |
+                |  unlabeled data
+                |
+                |
+         +--------------+
+         |  Semi-supervised |
+         |                 |
+         |    +--------+   |
+         +--->| Model  |<--+
+              +--------+
+
+
+            +--------------------------+
+            |        Unsupervised       |
+            |                          |
+            |        +--------+        |
+            +------->| Model  |<-------+
+                     +--------+
 
